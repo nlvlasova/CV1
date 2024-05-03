@@ -1,2 +1,2 @@
-# CV1
-CV HTML
+# cv_test
+Сайт-визика на HTML + CSS + JS
